@@ -1,7 +1,7 @@
 ## Welcome to my profile 👋
 
-- 🔭 I’m currently working on Socket programming using C
-- 🌱 I’m interested in machine learning and deep learning
+- 🔭 I’m learning Electronics and Information Engineering
+- 🌱 I’m currently interested in LLM
 
 ## 📊 Statistics
 
