@@ -5,6 +5,8 @@
 
 ## 📊 Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Haruk1y&show_icons=true&theme=radical)
+![](https://github-readme-stats-clone-gamma.vercel.app/api?username=Haruk1y&show_icons=true&theme=radical)
+
+![github-readme-stats](https://github-readme-stats-clone-gamma.vercel.app/api/top-langs/?username=Haruk1y)
 
 ![](https://komarev.com/ghpvc/?username=Haruk1y&color=orange)
