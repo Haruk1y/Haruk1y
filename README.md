@@ -5,7 +5,7 @@
 
 ## 📊 Statistics
 
-![](https://github-readme-stats-clone-gamma.vercel.app/api?username=Haruk1y&show_icons=true&theme=radical)
+![](https://github-readme-stats-clone-gamma.vercel.app/api?username=Haruk1y&show_icons=true&theme=radical&count_private=true)
 
 ![github-readme-stats](https://github-readme-stats-clone-gamma.vercel.app/api/top-langs/?username=Haruk1y)
 
