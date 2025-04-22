@@ -1,7 +1,6 @@
 ## Welcome to my profile 👋
 
 - 🔭 I’m learning Information and Communication Engineering
-- 🌱 I’m currently interested in LLM
 
 ## 📊 Statistics
 
