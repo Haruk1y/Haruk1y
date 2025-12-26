@@ -4,8 +4,8 @@
 
 ## 📊 Statistics
 
-![](https://github-readme-stats-clone-gamma.vercel.app/api?username=Haruk1y&count_private=true&show_icons=true)
+![github stats](https://github-readme-stats-sigma-three-76.vercel.app/api?username=Haruk1y&count_private=true&show_icons=true)
 
-![github-readme-stats](https://github-readme-stats-clone-gamma.vercel.app/api/top-langs/?username=Haruk1y&count_private=true)
+![top langs](https://github-readme-stats-sigma-three-76.vercel.app/api/top-langs/?username=Haruk1y&count_private=true)
 
 ![](https://komarev.com/ghpvc/?username=Haruk1y&color=orange)
